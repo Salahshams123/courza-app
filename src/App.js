@@ -30,7 +30,7 @@ import AddLecture from "./pages/Instructor/AddLecture";
 function App() {
   return (
     <>
-    <BrowserRouter >
+    <BrowserRouter basename={"/courza-app"}>
     <NavBar/>
      <Routes>
       <Route path="/" element={ <HomePage/> }/>

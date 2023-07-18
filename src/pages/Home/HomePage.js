@@ -53,7 +53,7 @@ import instractor4 from "../../images/instracor4.jpeg"
    <p className='p'>Dr.Angela Yu</p>
    <h4 className='h4'>4.7 <HiStar/><HiStar/> <HiStar/> <HiStar/> <IoMdStarHalf/><span>(272.011)</span></h4>
    <h2 className='h2'>E$266.9  <span><del>E$1,699.99</del></span></h2>
-   <a className='button2' href='h'>Bestseller</a>
+   
    </div>
 
    </div>
@@ -66,7 +66,7 @@ import instractor4 from "../../images/instracor4.jpeg"
    <p className='p'>Dr.Angela Yu</p>
    <h4 className='h4'>4.7 <HiStar/><HiStar/> <HiStar/> <HiStar/> <IoMdStarHalf/><span>(272.011)</span></h4>
    <h2 className='h2'>E$266.9  <span><del>E$1,699.99</del></span></h2>
-   <a className='button2' href='h'>Bestseller</a>
+  
    </div>
 
    </div>
@@ -79,7 +79,7 @@ import instractor4 from "../../images/instracor4.jpeg"
    <p className='p'>Dr.Angela Yu</p>
    <h4 className='h4'>4.7 <HiStar/><HiStar/> <HiStar/> <HiStar/> <IoMdStarHalf/><span>(272.011)</span></h4>
    <h2 className='h2'>E$266.9  <span><del>E$1,699.99</del></span></h2>
-   <a className='button2' href='h'>Bestseller</a>
+  
    </div>
 
    </div>
@@ -92,7 +92,7 @@ import instractor4 from "../../images/instracor4.jpeg"
    <p className='p'>Dr.Angela Yu</p>
    <h4 className='h4'>4.7 <HiStar/><HiStar/> <HiStar/> <HiStar/> <IoMdStarHalf/><span>(272.011)</span></h4>
    <h2 className='h2'>E$266.9  <span><del>E$1,699.99</del></span></h2>
-   <a className='button2' href='h'>Bestseller</a>
+  
    </div>
 
    </div>

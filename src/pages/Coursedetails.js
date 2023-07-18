@@ -1,7 +1,7 @@
 import React from 'react'
 import "../css/Coursedetails.css"
 import { Link } from 'react-router-dom';
-
+import card1 from "../images/card1.jpg"
 const Coursedetails = () => {
 
   return (
@@ -10,7 +10,7 @@ const Coursedetails = () => {
         <div className="col-lg-8">
           <div className="course-details mt-5">
             <h1 className="course-title display-3 mb-5" style={{fontWeight:"bold" ,fontSize:"20px",marginTop:"80px"}}>react js</h1>
-            <img className=" mb-4" src="images/card1.jpg" alt='course' height={"300px"} />
+            <img className=" mb-4" src={card1} alt='course' height={"300px"} />
             <p className="course-description lead mb-4">course description </p>
             <div className="course-details-info mb-4">
               <div className="d-flex mb-2">

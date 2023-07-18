@@ -164,3 +164,13 @@ border-radius: 50%;
  height: 5px;
  transition: 0.3s ease-in-out;
 }
+@media screen and (max-width:380px){
+    .categorys{
+      margin-left: 70px;
+    }
+   }
+   @media screen and (max-width:431px){
+      .instractorcard{
+        margin-left: 50px;
+      }
+     }
