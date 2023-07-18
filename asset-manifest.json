@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/courza-app/static/css/main.ad4ca269.css",
+    "main.js": "/courza-app/static/js/main.a7f8de06.js",
+    "static/media/js.mp4": "/courza-app/static/media/js.fad6594d2bbde95c7314.mp4",
+    "static/media/card2.jpg": "/courza-app/static/media/card2.ac730c0f34e5779f4f5e.jpg",
+    "static/media/card4.jpg": "/courza-app/static/media/card4.b04a20792e684bfbd8d4.jpg",
+    "static/media/card3.jpg": "/courza-app/static/media/card3.03e9e2eda07ddf6ac62d.jpg",
+    "static/media/card1.jpg": "/courza-app/static/media/card1.33bfd7f7160a573b2c60.jpg",
+    "static/media/register.png": "/courza-app/static/media/register.c63eced99fcb38972a6c.png",
+    "static/media/login.png": "/courza-app/static/media/login.78ccab5e2cbeadd1d2f2.png",
+    "static/media/instracor1.jpeg": "/courza-app/static/media/instracor1.79ee966b7aadd30ecc20.jpeg",
+    "static/media/instracor2.jpg": "/courza-app/static/media/instracor2.9104ab890edcc778d61c.jpg",
+    "static/media/reset.jpeg": "/courza-app/static/media/reset.e2cca80d2ae69c93c9ef.jpeg",
+    "static/media/homepage.jpeg": "/courza-app/static/media/homepage.3844aa466460924bee94.jpeg",
+    "static/media/instracor4.jpeg": "/courza-app/static/media/instracor4.f79a23ef82f58bf009bb.jpeg",
+    "static/media/instracor3.jpeg": "/courza-app/static/media/instracor3.51265c34aacdba13e339.jpeg",
+    "index.html": "/courza-app/index.html",
+    "main.ad4ca269.css.map": "/courza-app/static/css/main.ad4ca269.css.map",
+    "main.a7f8de06.js.map": "/courza-app/static/js/main.a7f8de06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad4ca269.css",
+    "static/js/main.a7f8de06.js"
+  ]
+}
