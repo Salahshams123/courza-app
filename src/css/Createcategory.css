@@ -1,0 +1,32 @@
+.createcategory{
+    left: 20%;
+    position: absolute;
+    top: 40%;
+    
+}
+.createcategory input{
+    margin-bottom: 20px;
+    border-radius: 20px;
+    width: 370px;
+    padding: 10px;
+    border: 1px solid rgb(6, 145, 179);
+    
+}
+
+.addcategory{
+    border: none;
+}
+.createcategory input:focus::-webkit-input-placeholder{
+    opacity: 0;
+    transition: 0.3s ease-in-out;
+    border: none;
+}
+@media screen and (max-width:800px){
+    
+    .createcategory input{
+       
+        width:100%;
+          
+      }
+   
+}

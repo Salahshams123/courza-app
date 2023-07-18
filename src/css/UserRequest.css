@@ -1,0 +1,16 @@
+.userrequests{
+    position: absolute;
+   top:150px;
+   left: 100px;
+   width: 100%;
+
+   
+}
+@media screen and (max-width:991px){
+.userrequests{
+    top:150px;
+    left: 45px;
+    width: 90%;
+   overflow-x: hidden;
+}
+}
