@@ -1,7 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/js/dist/dropdown"
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import {  Route, Routes,HashRouter } from "react-router-dom";
 import Footer from "./component/utility/Footer";
 import Login from "./component/utility/Login";
 import NavBar from "./component/utility/NavBar";
@@ -30,7 +30,7 @@ import AddLecture from "./pages/Instructor/AddLecture";
 function App() {
   return (
     <>
-    <BrowserRouter basename={"/courza-app"}>
+    <HashRouter >
     <NavBar/>
      <Routes>
       <Route path="/" element={ <HomePage/> }/>
@@ -69,7 +69,7 @@ function App() {
         
      </Routes>
      <Footer/>
-    </BrowserRouter>
+    </HashRouter>
     </>
   );
 }

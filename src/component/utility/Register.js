@@ -2,6 +2,7 @@ import React from 'react'
 import { useState } from 'react';
 import "../../css/Auth.css"
 import register from "../../images/register.png"
+import { Link } from 'react-router-dom';
 const Register = () => {
  const [fname,setfname]= useState("");
  const [lname,setlname]= useState("");
@@ -25,7 +26,7 @@ const Register = () => {
        <input type="password" placeholder='confirmPassword'  required  value={confirmpassword} onChange={(e)=>setconfirmpassword(e.target.value)}/>
        <button  type="submit" className="--btn --btn-primary --btn-block">Sign up</button>
        </form>
-       <span className= "register"><p>Already an account?</p><a href='/login'>Login</a></span>
+       <span className= "register"><p>Already an account?</p><Link to={"/login"}>Login</Link></span>
      </div>
      </div>
      <div className="img">
