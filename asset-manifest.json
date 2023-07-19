@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/courza-app/static/css/main.6351f2d4.css",
-    "main.js": "/courza-app/static/js/main.cfbe5ff8.js",
+    "main.js": "/courza-app/static/js/main.0ba9c840.js",
     "static/media/js.mp4": "/courza-app/static/media/js.fad6594d2bbde95c7314.mp4",
     "static/media/card2.jpg": "/courza-app/static/media/card2.ac730c0f34e5779f4f5e.jpg",
     "static/media/card4.jpg": "/courza-app/static/media/card4.b04a20792e684bfbd8d4.jpg",
@@ -17,10 +17,10 @@
     "static/media/instracor3.jpeg": "/courza-app/static/media/instracor3.51265c34aacdba13e339.jpeg",
     "index.html": "/courza-app/index.html",
     "main.6351f2d4.css.map": "/courza-app/static/css/main.6351f2d4.css.map",
-    "main.cfbe5ff8.js.map": "/courza-app/static/js/main.cfbe5ff8.js.map"
+    "main.0ba9c840.js.map": "/courza-app/static/js/main.0ba9c840.js.map"
   },
   "entrypoints": [
     "static/css/main.6351f2d4.css",
-    "static/js/main.cfbe5ff8.js"
+    "static/js/main.0ba9c840.js"
   ]
 }
