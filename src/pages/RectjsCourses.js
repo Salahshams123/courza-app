@@ -6,6 +6,7 @@ import { Link } from 'react-router-dom';
 import { Accordion} from 'react-bootstrap';
 import { FaTimes } from 'react-icons/fa';
 import card1 from "../images/card1.jpg"
+import { SiPackagist } from 'react-icons/si';
 const RectjsCourses = () => {
   const [showMenu2,setshowMenu2] = useState(true)
 
@@ -902,7 +903,7 @@ const changePage = (id) => {
               <p className='p'>{d.p}</p>
               <h4 className='h4'>4.7 <HiStar/><HiStar/> <HiStar/> <HiStar/> <IoMdStarHalf/><span>(272.011)</span></h4>
              <h2 className='h2'>{d.price1} <span><del>{d.price2}</del></span></h2>
-             <a className='button2' href='h'>Bestseller</a>
+            
            </div>
          </div>
          ))}
@@ -914,15 +915,15 @@ const changePage = (id) => {
       <div className='pagination1'>  
      <ul className='pagination'>
       <li className='page-item'>
-        <a href='#1' className='page-link' onClick={prevPage}  >perv</a>
+        <span className='page-link' onClick={prevPage}  >perv</span>
       </li>
        {numbers.map((n) =>(
         <li className={`page-item ${curentPage === n ? 'active ' : ''} `} >
-        <a href='#1' className='page-link' onClick={()=> changePage(n)}  >{n}</a>
+        <span className='page-link' onClick={()=> changePage(n)}  >{n}</span>
       </li>
        ))}
        <li className='page-item'>
-       <a href='#1' className='page-link' onClick={nextPage} >Next</a>
+       <span className='page-link' onClick={nextPage} >Next</span>
      </li>
      </ul>
     </div>

@@ -1,7 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/js/dist/dropdown"
-import {  Route, Routes,HashRouter } from "react-router-dom";
+import {  Route, Routes, HashRouter } from "react-router-dom";
 import Footer from "./component/utility/Footer";
 import Login from "./component/utility/Login";
 import NavBar from "./component/utility/NavBar";
